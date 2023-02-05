@@ -1,16 +1,4 @@
-# groceryvendorapp
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Hey! In this Ui I made  beutiful profile as most of the people face problem in handling stack so dont worry  about this,In this UI include:
++Stack Widget with Align and position
++Bottom Naviagation Bar
++GridviewBuilder.count
